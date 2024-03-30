@@ -13,5 +13,5 @@ install.packages(c("shiny", "ggplot2"))
 then use:
 
 ```r
-shiny::runGitHub("rphars/1dloglik")
+shiny::runGitHub("rphars/cmviz",subdir="1dloglik")
 ```
